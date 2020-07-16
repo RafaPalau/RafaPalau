@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello World! 
+I'm **Rafael Palau** 👋👨💻, nice to meet you!
 
-<!--
-**RafaPalau/RafaPalau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me 
+- Since I had contact with the computer for the first time (I was 20 years old👴😩) 
+        I am passionate about technology, I love to know new things.
+- I'm married to a beautiful girl 😍 💗
+- I have 2 children, a young man and a baby.😊😊
+- I know how to play the drums 🥁
+- And I know how to make delicious craft beers.🍺
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Career
+- 🎓: Bachelor in Software Analysis and Development.
+- 💾: HTML, CSS, JavaScript, Node.js, React, Always wanting to learn more and better .
+- 🔧: Visual Studio Code, GitHub.          
+
+
+### My Website 
+[www.rafaelpalau.co](http://www.rafaelpalau.co)
