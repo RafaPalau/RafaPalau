@@ -9,7 +9,7 @@ I'm **Rafael Palau** 👋👨💻, nice to meet you!
 - I know how to play the drums 🥁
 - And I know how to make delicious craft beers.🍺
 
-![Image of Programming](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
+![Image of Programming](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
 
 
 
