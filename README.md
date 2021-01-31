@@ -6,6 +6,3 @@ I'm **Rafael Palau** 👋👨💻, nice to meet you!
 - 💾: HTML, CSS, JavaScript, Node.js, React, Always wanting to learn more and better .
 - 🔧: Visual Studio Code, GitHub.          
 
-
-### My Website 
-[www.rafaelpalau.co](http://www.rafaelpalau.co)
