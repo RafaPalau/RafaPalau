@@ -3,8 +3,8 @@ I'm **Rafael Palau** 👋👨💻, nice to meet you!
 
 ### Career
 - 🎓: Bachelor in Software Analysis and Development.
-- 💾: JavaScript, Typescript, React, Next, Mongodb, Postgres, SASS, Styled components, testes automatizados, Kotlin... Always wanting to learn more and better .
-- 🔧: Visual Studio Code, Intellij, GitHub, Gitlab.          
+- 💾: JavaScript, Typescript, React, Next, Mongodb, Postgres, SASS, Styled components, Always wanting to learn more and better .
+- 🔧: Visual Studio Code, GitHub.          
 
 <p align="left">
   <a href="https://www.instagram.com/rafapalau/" alt="Instagram">
