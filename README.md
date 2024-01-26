@@ -1,16 +1,17 @@
-### Hello World! 
-I'm **Rafael Palau** 👋👨💻, nice to meet you!
+# Hello World! 👋
 
-### Career
-- 🎓: Bachelor's degree in Software Analysis and Development and pursuing a postgraduate degree in FullStack Development at PUC.
-- 💾: JavaScript, Typescript, Node, NestJS, React, NextJs, Mongodb, Postgres, SASS, Styled components, Tests. Always wanting to learn more and better .
-- 🔧: Visual Studio Code, Git and GitHub.          
+I'm Rafael Palau, a passionate software developer on a journey of continuous learning and improvement. Here's a bit about me:
 
-<p align="left">
-  <a href="https://www.instagram.com/rafapalau/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/rafapalau/"/></a>
-  
-  <a href="https://www.linkedin.com/in/palaurafael/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/palaurafael/" /></a>
+## Career
+- 🎓 **Education:** Bachelor's degree in Software Analysis and Development; currently pursuing a postgraduate degree in Full Stack Development at PUC RS.
+- 💼 **Experience:** Since 2020 working with tools such as HTML, JavaScript, TypeScript, Node.js, NestJS, React, Next.js, MongoDB, Postgres, CSS, SASS, Styled Components, Material UI, Jest, Cypress, PlayWright, etc. Always eager to expand my tech stack and embrace new challenges.
 
-</p>
+## Tools of the Trade
+- 🔧 **Tech Stack:** JavaScript, TypeScript, Node.js, NestJS, React, Next.js, MongoDB, Postgres, SASS, Styled Components, and a passion for writing clean and efficient code.
+- 🛠️ **Development Tools:** I predominantly use Visual Studio Code, Git, and GitHub for version control and collaborative coding.
+
+## Interests
+- 🚀 **Always Learning:** I'm committed to staying updated with the latest technologies and methodologies in the ever-evolving tech landscape.
+- 📚 **Open Source Enthusiast:** I believe in the power of open source and actively contribute to and learn from various projects.
+
+Let's connect and build something awesome together! 💻🚀
