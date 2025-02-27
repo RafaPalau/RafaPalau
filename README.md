@@ -10,7 +10,7 @@ I'm Rafael Palau, a passionate front-end developer on a journey of continuous le
 
 ## Tools of the Trade
 
-- 🛠️ **Tech Stack:** JavaScript, TypeScript, **Angular, Ionic,** React, Next.js, Node.js, NestJS, MongoDB, Postgres, SASS, Styled Components, and a passion for writing clean and efficient code.
+- 🛠️ **Tech Stack:** JavaScript, TypeScript, Angular, Ionic, React, Next.js, Node.js, NestJS, MongoDB, Postgres, SASS, Styled Components, and a passion for writing clean and efficient code.
 - 🖥️ **Development Tools:** I primarily use Visual Studio Code, Git, GitHub, and **Azure DevOps** for version control and collaborative coding.
 
 ## Interests
